@@ -1,0 +1,30 @@
+
+.hearder--cabe{
+    
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    right:0;
+    height: 70;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: transparent;
+    opacity: 0.9;
+}
+
+.hearder--meio{
+
+    display: flex;
+}
+
+.header--lupa {
+    
+    display: flex;
+    
+}
+.header--lupa img{
+    
+    height: 60%;
+}
